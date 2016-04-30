@@ -11,4 +11,4 @@ logging.basicConfig(
 	filemode='a'
 )
 
-logging.info("testtest")
+logging.info("testtest----中文测试")
